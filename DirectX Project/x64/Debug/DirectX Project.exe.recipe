@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\x64\Debug\DirectX Project.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\PixelShader_particle.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\VertexShader_particle.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\ComputeShader_particle.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\DomainShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\HullShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\GeometryShader_particle.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\PixelShader_nolight.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Terry\Documents\BTH\Termin 3\DV1568 3D-Programmering\Uppgift3 - Project\DirectX Project - Backup\DirectX Project\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
